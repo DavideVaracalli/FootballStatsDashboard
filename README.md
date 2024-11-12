@@ -9,7 +9,7 @@ In-depth Analysis of the Premier League Dataset: Player Statistics and Trends
 The Premier League is the highest level of the English football league system, featuring 20 clubs that compete annually in a league with a promotion and relegation system involving the English Football League (EFL). Each season runs from August to May, with each team playing 38 matches (playing against the other 19 teams both home and away).
 
 # 2. The Dataset
-The dataset used [PLDataset](https://github.com/DavideVaracalli/FootballStatsDashboard/PLDataset.csv) contains data up to September 24, 2020, with a total of 571 rows and 59 columns. Each row represents a player currently active in the Premier League, and the columns describe player attributes and game statistics. Here are some of the included details:
+The dataset used [PLDataset](./PLDataset.csv) contains data up to September 24, 2020, with a total of 571 rows and 59 columns. Each row represents a player currently active in the Premier League, and the columns describe player attributes and game statistics. Here are some of the included details:
 
 Name: The player's name
 Jersey Number: The number on the back of their shirt
