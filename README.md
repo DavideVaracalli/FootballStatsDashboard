@@ -3,7 +3,7 @@ In-depth Analysis of the Premier League Dataset: Player Statistics and Trends
 
 
 # Description
-[PLPerformanceAnalysis](./PLPerformanceAnalysis) is a project that uses Python to conduct in-depth analyses of Premier League players and clubs, based on a comprehensive dataset containing detailed information on each player. The primary objective of this project is to create visualizations and statistical analyses that help users better understand individual and team performances throughout the seasons.
+[PLPerformanceAnalysis](./PLPerformanceAnalysis.py) is a project that uses Python to conduct in-depth analyses of Premier League players and clubs, based on a comprehensive dataset containing detailed information on each player. The primary objective of this project is to create visualizations and statistical analyses that help users better understand individual and team performances throughout the seasons.
 
 # 1. Overview of the Premier League
 The Premier League is the highest level of the English football league system, featuring 20 clubs that compete annually in a league with a promotion and relegation system involving the English Football League (EFL). Each season runs from August to May, with each team playing 38 matches (playing against the other 19 teams both home and away).
